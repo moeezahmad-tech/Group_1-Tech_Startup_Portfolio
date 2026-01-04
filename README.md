@@ -24,3 +24,15 @@ After the mids we learn about the HTML, CSS and we also craeted our own site. Af
 ## Website Live Link
 
 - https://moeezahmad-tech.github.io/Group_1-Tech_Startup_Portfolio/
+
+## Our Website Home Page
+
+![Image failed to load](/images/websiteImage.png)
+
+## Our Website Contact Page
+
+![Image failed to load](/images/contactpage.png)
+
+## Our Website Designs Page
+
+![Image failed to load](/images/designspage.png)
