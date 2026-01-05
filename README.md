@@ -36,3 +36,11 @@ After the mids we learn about the HTML, CSS and we also craeted our own site. Af
 ## Our Website Designs Page
 
 ![Image failed to load](/images/designspage.png)
+
+## Word File
+
+![Image failed to load](/images/ReadMeImage/image%20(1).png)
+
+## Excel Sheet
+
+![Image failed to load](/images/ReadMeImage/image%20(2).png)
